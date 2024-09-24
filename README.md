@@ -1,5 +1,4 @@
 <html>
-<head><title>RANDOM AHH STUFF!</title></head>
 <body>
 
 Small Toilet<br />
